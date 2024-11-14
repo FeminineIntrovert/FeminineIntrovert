@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @FeminineIntrovert
+- 👋🏾 Hi, I’m Tayler
 - 👀 I’m interested in diving into new technologies and experimenting with creative solutions.
 - 🌱 I’m currently learning front-end development and user experience design. I'd like to contribute to meaningful projects and collaborate with others in tech.
 - 💞️ Fun fact: I’m a dedicated lifelong learner with a love for fashion, sewing, and other creative expressions. Outside of coding, you might find me cooking new recipes, dancing, or immersing myself in books.
